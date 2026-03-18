@@ -13,7 +13,7 @@
 🔍 Actualmente enfocado en **QA y pruebas de calidad**  
 📊 Interesado en el mundo de **Machine Learning y Redes Neuronales**
 
-💡 Me especializo en el desarrollo backend y la calidad del software, asegurando que las aplicaciones no solo funcionen, sino que lo hagan correctamente.
+💡 Me especializo en el desarrollo backend y la calidad del software, asegurando que las aplicaciones no solo funcionen, sino que lo hagan correctamente, sino que también sean **escalables, mantenibles y confiables**.
 
 ---
 
@@ -28,7 +28,15 @@
 ### ⚙️ Backend & QA
 - Django  
 - Python  
-- Testing & QA (pruebas funcionales, validación, calidad de software)
+- Pandas (procesamiento y análisis de datos)  
+- Desarrollo de APIs REST  
+- Testing & QA (pruebas funcionales, validación, calidad de software)  
+
+### 🔄 CI/CD & Automatización
+- Integración Continua (CI)  
+- Manejo de pipelines  
+- Automatización de pruebas  
+- Validación de builds y despliegues  
 
 ### 🗄️ Bases de Datos
 - MySQL  
@@ -38,6 +46,7 @@
 ### ☁️ DevOps & Cloud
 - AWS Cloud Foundations  
 - Servicios básicos de cloud  
+- Conceptos de despliegue y arquitectura  
 
 ---
 
@@ -45,7 +54,8 @@
 
 - 🤖 Machine Learning  
 - 🧠 Redes Neuronales  
-- 🔍 Mejores prácticas en QA y automatización de pruebas  
+- 🔍 Automatización de pruebas (QA avanzado)  
+- ⚙️ Mejores prácticas en CI/CD  
 
 ---
 
@@ -81,14 +91,15 @@
 Seguir creciendo como desarrollador, especializándome en:
 - Backend robusto  
 - Calidad de software (QA)  
+- Automatización y CI/CD  
 - Inteligencia Artificial  
 
 ---
 
 ## 📫 Conecta conmigo
 
-- 💼 LinkedIn: (aquí puedes agregarlo)
-- 📧 Email: (opcional)
+- 💼 LinkedIn: https://www.linkedin.com/in/juan-jose-mafla-pacheco-937a7b24b/  
+- 📧 Email: juan.mafla@correounivalle.edu.co  
 
 ---
 
